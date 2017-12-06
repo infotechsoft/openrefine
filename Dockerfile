@@ -5,7 +5,7 @@
 
 FROM infotechsoft/java:8-jre
 
-ARG OPENREFINE_VERSION=2.7
+ARG OPENREFINE_VERSION=2.8
 ENV OPENREFINE_VERSION ${OPENREFINE_VERSION}
 ENV OPENREFINE_PORT 3333
 ENV OPENREFINE_DATA_DIR /usr/local/openrefine/data
@@ -13,7 +13,7 @@ ENV OPENREFINE_DATA_DIR /usr/local/openrefine/data
 LABEL name="infotechsoft/openrefine" \ 
 	vendor="INFOTECH Soft, Inc." \
 	version="${OPENREFINE_VERSION}" \
-	release-date="2017-11-16" \
+	release-date="2017-12-06" \
 	maintainer="Thomas J. Taylor <thomas@infotechsoft.com>"
 	
 

@@ -2,7 +2,7 @@
 ![OpenRefine](https://github.com/OpenRefine/OpenRefine/blob/master/graphics/icon/open-refine-120px.png?raw=true "Open Refine") deployment for Docker based on infotechsoft/java:8-jre
 
 ## Build Details
- * OpenRefine Version: 2.7
+ * OpenRefine Version: 2.8
  * Java Version: 8-jre
  
 # Maintainer 
